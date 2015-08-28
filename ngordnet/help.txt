@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl560\sa200
+\ls1\ilvl0
+\f0\fs30 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 quit: program exits\
+help: Provides a list of commands.\
+range [start] [end]: resets the start and end years to the values provided. affects only future plots, not existing plots.\
+count [word] [year]: print the count of word in the given year.\
+hyponyms [word]: prints all hyponyms of the given word using the default Set string representation (see below).\
+history [words...]: plots relative frequency of all words from start to end.\
+hypohist [words...]: plots relative frequency of all hyponyms of words from start to end.\
+}
